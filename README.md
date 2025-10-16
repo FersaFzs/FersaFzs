@@ -99,15 +99,6 @@ Deploy:   Vercel + Docker + GitHub Actions
 
 ---
 
-## 📈 **Estadísticas de GitHub**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=tu-usuario&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E)
-
----
 
 ## 🎓 **Educación & Certificaciones**
 
