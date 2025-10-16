@@ -2,7 +2,7 @@
 
 ## 🚀 **Full-Stack Developer & Software Engineer**
 
-> *"Dando vida a ideas con el arte del desarrollo"*
+> *"Dando vida a ideas usando el desarrollo como arte"*
 
 ---
 
