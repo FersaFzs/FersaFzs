@@ -2,7 +2,7 @@
 
 ## 🚀 **Full-Stack Developer & Software Engineer**
 
-> *"Transformando ideas en experiencias digitales excepcionales"*
+> *"Dando vida a ideas con el arte del desarrollo"*
 
 ---
 
